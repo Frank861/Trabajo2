@@ -6,11 +6,11 @@
 3-Shawn Diaz#8<br>
 </ul>
 <p align=center><font size="4"><b>Git</b></font></p>
-<img src="https://julioecheverri.files.wordpress.com/2016/07/git-logo.png" width="500" align="center" alt="Git">
+<p align="center"><img src="https://julioecheverri.files.wordpress.com/2016/07/git-logo.png" width="500" align="center" alt="Git"></p>
 <br>
 <br>
 <p align=center><font size="4"><b>Github</b></font></p>
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="500" align=center alt="GitHub">
+<p align=center><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="500" align=center alt="GitHub"></p>
 <br>
 <br>
 <p align="center"><font size="4"><b>Contenidos</b></font></p>
